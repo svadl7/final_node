@@ -1,6 +1,6 @@
 module.exports = {
     connectionurl: "mongodb+srv://vadlamudisai1:Jaswanth3579@webtrail.o1tsui4.mongodb.net/?retryWrites=true&w=majority",
-    database: 'Grocery_store',
-    collection: 'Diary'
+    database: 'Groceries',
+    collection: 'grocery'
   };
   
